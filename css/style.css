@@ -1,0 +1,110 @@
+body{margin-top: 60px;}
+.nav-item{text-transform: uppercase;
+padding-left: 1em;
+color: blue!important;}
+
+.image-1{min-height: 100%;
+width: 100%;}
+
+.slide{margin-right: -15px;
+margin-left: -15px;
+}
+.carousel-indicators li{
+	border-radius: 50%!important;
+	width: 7px!important;
+	height: 7px!important;
+	background-color: red!important;
+}
+.caption{margin-bottom: 10%!important;
+color:black!important;}
+#Boxex img{margin-top: -50px;}
+
+.caption-1{color:#3292a6; }
+.caption-1:hover{color: #fff;}
+.outline:hover{background: skyblue!important;
+
+color: #fff;
+
+
+
+}
+.last-image{
+width: 64%!important;}
+.first-image{
+width: 53%!important;}
+.hover:hover{background: #e83e8c87;
+color: #fff;}
+
+#getstarted{
+	background: url('../img/f.png'); 
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	min-height: 250px;
+	position: relative;
+}
+.dark-overlay{
+	background: rgba(0,0,0,0.7);
+	position: absolute;
+	top: 0;
+	left: 0;
+	min-height: 100%;
+	width: 100%;
+
+}
+.picture-1{background: url('../img/munny.jpg'); 
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	min-height: 250px;
+	position: relative;
+}
+,.picture-2{
+	height: 150px!important;
+	width: 350px!important;
+
+}
+#get{
+	background: url('../img/f.png'); 
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	min-height: 250px;
+	position: relative;
+}
+.dark-overlay{
+	background: rgba(0,0,0,0.7);
+	position: absolute;
+	top: 0;
+	left: 0;
+	min-height: 100%;
+	width: 100%;
+
+}
+
+#started{
+	background: url('../img/f.png'); 
+	background-size: cover;
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+	min-height: 250px;
+	position: relative;
+}
+.dark-overlay{
+	background: rgba(0,0,0,0.7);
+	position: absolute;
+	top: 0;
+	left: 0;
+	min-height: 100%;
+	width: 100%;
+
+}
+.phone-icon{
+font-size: 26px!important;
+margin-bottom:2px!important;
+float:left;
+margin-left: 1px;
+margin-top:5px;
+}
+
+
